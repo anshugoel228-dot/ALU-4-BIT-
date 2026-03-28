@@ -4,7 +4,17 @@ I recently designed and simulated an 8-bit Arithmetic Logic Unit (ALU) using Ver
 
 
 
-#MODULE
+
+
+
+
+
+
+
+
+
+
+# MODULE
 module alu(
     input  [7:0] A, B,
     input  [3:0] ALU_Sel,
