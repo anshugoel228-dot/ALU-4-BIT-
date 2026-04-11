@@ -1,4 +1,4 @@
-# ALU-4-BIT code
+# ALU-8-BIT code
 I recently designed and simulated an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL, focusing on core digital design and RTL concepts. This project implements multiple arithmetic and logical operations such as addition, subtraction, AND, OR, XOR, NOT, and shift operations, all controlled through a 4-bit select line. I developed the complete RTL architecture using behavioral modeling (always block with case statements), ensuring modular and synthesizable code. A dedicated testbench was created to verify functionality across all operations, and waveform analysis was used to validate outputs and carry behavior. Additionally, I explored the internal structure through schematic-level representation, giving a deeper understanding of how logic gates and multiplexers work together to form the ALU. This project strengthened my skills in Verilog coding, simulation, debugging, and digital system design, bridging the gap between theoretical concepts and practical hardware implementation.
 
 
